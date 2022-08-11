@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-html homework 1
+https://michamas.github.io/goit-markup-hw-01/
